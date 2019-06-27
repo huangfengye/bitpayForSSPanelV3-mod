@@ -26,7 +26,7 @@ BitPay - 更匿名、更安全、无需支付宝姓名和账户等个人私密�
 
 ## 文件新增
 
-需要新增4个文件，并且放入对应的目录下，不会与现有的代码冲突。[下载链接](https://github.com/bitpaydev/bitpayForSSPanelV3)。
+需要新增4个文件，并且放入对应的目录下，不会与现有的代码冲突。[下载链接](https://github.com/huangfengye/bitpayForSSPanelV3-mod)。
 
  * resources/views/material/user/tomatobitpay.tpl
  * resources/views/material/user/bitpay.tpl
